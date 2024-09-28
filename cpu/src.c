@@ -1,5 +1,7 @@
-struct cpu {
+#include <stdint.h>
 
+struct cpu {
+ 
 };
 
 
